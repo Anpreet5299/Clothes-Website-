@@ -218,13 +218,13 @@
     transition: all ease 0.6s;
   }
   #card1 {
-    background-image: url(images/3.jpg);
+    background-image: url(3.jpg);
   }
   #card2 {
-    background-image: url(images/4.jpg);
+    background-image: url(4.jpg);
   }
   #card3 {
-    background-image: url(images/5.jpg);
+    background-image: url(5.jpg);
   }
   .overlay {
     height: 100%;
